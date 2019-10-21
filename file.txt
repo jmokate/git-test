@@ -1,1 +1,2 @@
-John is the coolest
+John is the Coolest
+and he fixed the bug
